@@ -158,3 +158,13 @@ header {
   position: relative;
   top: 7px;
 }
+
+.footer h1 {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+.footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
