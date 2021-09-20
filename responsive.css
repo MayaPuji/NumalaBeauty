@@ -1,0 +1,17 @@
+ /* Untuk Tablet */
+ @media (max-width: 1000px) {
+   .lesson {
+     width: 50%;
+   }
+ }
+
+ /* Untuk Smartphones */
+  @media (max-width: 670px) {
+    .lesson {
+      width: 100%;
+    }
+  
+    footer {
+      text-align: center;
+    }
+}
